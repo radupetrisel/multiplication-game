@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7C26593A2A5C24640072651F /* Question.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C2659392A5C24640072651F /* Question.swift */; };
 		7CD31A9E2A5BF11400BB3E6C /* MultiplicationGameApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CD31A9D2A5BF11400BB3E6C /* MultiplicationGameApp.swift */; };
 		7CD31AA02A5BF11400BB3E6C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CD31A9F2A5BF11400BB3E6C /* ContentView.swift */; };
 		7CD31AA22A5BF11500BB3E6C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7CD31AA12A5BF11500BB3E6C /* Assets.xcassets */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		7C2659392A5C24640072651F /* Question.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Question.swift; sourceTree = "<group>"; };
 		7CD31A9A2A5BF11400BB3E6C /* MultiplicationGame.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MultiplicationGame.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7CD31A9D2A5BF11400BB3E6C /* MultiplicationGameApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultiplicationGameApp.swift; sourceTree = "<group>"; };
 		7CD31A9F2A5BF11400BB3E6C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 			children = (
 				7CD31A9D2A5BF11400BB3E6C /* MultiplicationGameApp.swift */,
 				7CD31A9F2A5BF11400BB3E6C /* ContentView.swift */,
+				7C2659392A5C24640072651F /* Question.swift */,
 				7CD31AA12A5BF11500BB3E6C /* Assets.xcassets */,
 				7CD31AA32A5BF11500BB3E6C /* Preview Content */,
 			);
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7C26593A2A5C24640072651F /* Question.swift in Sources */,
 				7CD31AA02A5BF11400BB3E6C /* ContentView.swift in Sources */,
 				7CD31A9E2A5BF11400BB3E6C /* MultiplicationGameApp.swift in Sources */,
 			);
